@@ -1,6 +1,6 @@
-package test.java.io.analu.estruturadados.Vetor;
+package test.java.io.analu.estruturadados.vetor;
 
-import main.java.io.analu.estruturadados.Vetor.Vetor;
+import main.java.io.analu.estruturadados.vetor.Vetor;
 
 public class testaAddElemento_aula3 {
     public static void main(String[] args) {

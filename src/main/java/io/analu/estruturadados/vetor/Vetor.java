@@ -1,4 +1,4 @@
-package main.java.io.analu.estruturadados.Vetor;
+package main.java.io.analu.estruturadados.vetor;
 
 public class Vetor {
 
