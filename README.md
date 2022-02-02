@@ -8,8 +8,8 @@ link: https://loiane.training/continuar-curso/estrutura-de-dados
 <details><summary><b> Módulo 1: Vetores, Arrays e Listas</b> 4h</summary>
 
 - [x] Introdução a Estrutura de Dados e Algoritmos
-- [ ] Vetores e Arrays: Introdução
-- [ ] Adicionar elemento no final do vetor
+- [x] Vetores e Arrays: Introdução
+- [x] Adicionar elemento no final do vetor
 - [ ] Verificar tamanho e imprimir elementos do vetor
 - [ ] Obter elemento de uma posição
 - [ ] Verificar se elemento existe no vetor (busca sequencial)
@@ -48,7 +48,7 @@ link: https://loiane.training/continuar-curso/estrutura-de-dados
   
 </details>
 
-<details><summary><b> Módulo 3: Filas/b> 1h</summary>
+<details><summary><b> Módulo 3: Filas/b> 1h </summary>
 
 - [ ] Filas: Introdução
 - [ ] Enfileirar (adicionar) elemento (enqueue)
