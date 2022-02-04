@@ -10,9 +10,9 @@ link: https://loiane.training/continuar-curso/estrutura-de-dados
 - [x] Introdução a Estrutura de Dados e Algoritmos
 - [x] Vetores e Arrays: Introdução
 - [x] Adicionar elemento no final do vetor
-- [ ] Verificar tamanho e imprimir elementos do vetor
-- [ ] Obter elemento de uma posição
-- [ ] Verificar se elemento existe no vetor (busca sequencial)
+- [x] Verificar tamanho e imprimir elementos do vetor
+- [x] Obter elemento de uma posição
+- [x] Verificar se elemento existe no vetor (busca sequencial)
 - [ ] Adicionar elemento em qualquer posição
 - [ ] Aumentar capacidade do vetor
 - [ ] Remover elemento do vetor

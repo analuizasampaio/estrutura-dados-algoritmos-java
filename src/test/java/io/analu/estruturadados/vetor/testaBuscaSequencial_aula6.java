@@ -2,7 +2,7 @@ package test.java.io.analu.estruturadados.vetor;
 
 import main.java.io.analu.estruturadados.vetor.Vetor;
 
-public class testaObterElemento_aula5 {
+public class testaBuscaSequencial_aula6 {
     public static void main(String[] args) {
         Vetor vetor = new Vetor(10);
 

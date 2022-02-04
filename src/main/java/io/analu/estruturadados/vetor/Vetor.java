@@ -43,12 +43,22 @@ public class Vetor {
             return false;
         }
 
-        public String getItem(int posicao){
+//        public String getItem(int posicao){
+//
+//            if (!(posicao>=0 && posicao<tamanho)){
+//                throw new IllegalArgumentException("Posição invalida");
+//            }
+//            return this.elementos[posicao];
+//        }
 
-            if (!(posicao>=0 && posicao<tamanho)){
-                throw new IllegalArgumentException("Posição invalida");
+        public int buscaSequencial(String elemento){
+
+            for (int i=0; i<this.tamanho; i++){
+                if (this.elementos[i].equals(elemento)){
+                    return i;
+                }
             }
-            return this.elementos[posicao];
+            return -1;
         }
 
         public int getTamanho(){
