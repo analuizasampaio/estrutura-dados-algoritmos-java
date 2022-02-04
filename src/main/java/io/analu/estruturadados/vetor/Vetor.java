@@ -43,6 +43,14 @@ public class Vetor {
             return false;
         }
 
+        public String getItem(int posicao){
+
+            if (!(posicao>=0 && posicao<tamanho)){
+                throw new IllegalArgumentException("Posição invalida");
+            }
+            return this.elementos[posicao];
+        }
+
         public int getTamanho(){
             return this.tamanho;
         }
